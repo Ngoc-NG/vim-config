@@ -45,8 +45,11 @@ set autoread
 let mapleader = ","
 let g:mapleader = ","
 
-map <leader>w :w!<cr>B          " Fast saving
-map <leader>q :q<cr>            " Fast quit
+" Fast saving
+map <leader>w :w!<cr>
+
+" Fast quit
+map <leader>q :q<cr>
 
 " fast escapse
 inoremap jj <ESC>
