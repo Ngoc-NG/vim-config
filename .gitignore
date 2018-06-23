@@ -1,3 +1,3 @@
 # Ignore Plug data
 vim-config/.vim/plugged
-
+vim-config/.vim/autoload/plug.vim.old
